@@ -8,4 +8,5 @@
 - postgreSql - dev
 - SpringDataJPA
 - RestDoc
+- Docker
 - SpringOauth 2.1.0
