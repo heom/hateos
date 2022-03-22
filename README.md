@@ -1,6 +1,5 @@
 # hateos
 - SPRING-HATEOAS 활용한 REST API 공부하기 
-- 스프링 기반 REST API 개발[백기선] - inflearn
 
 ## 프로젝트 개발 구성
 - Java 8
