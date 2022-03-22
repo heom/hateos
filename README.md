@@ -1,4 +1,4 @@
-# hateos
+# HATEOAS
 - SPRING-HATEOAS 활용한 REST API 공부하기 
 
 ## 프로젝트 개발 구성
