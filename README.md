@@ -4,7 +4,7 @@
 ## 프로젝트 개발 구성
 - Java 8
 - Spring Boot(+Maven) 2.6.4
-- H2(Embeded) - loacl
+- H2(Embeded) - local
 - postgreSql - dev
 - SpringDataJPA
 - RestDoc
